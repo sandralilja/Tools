@@ -4,3 +4,7 @@ When you add a new tool to this repository plece it under a new folder. Update t
 
 # RandomizedLasso/Randomized Elastic Net
 A MATLAB code to perform randomized elastic net. Useful tool to rank predictors (for example select biomarkers)
+
+# DiffNet/Differential Network Analysis
+A python code to implement the differential network analysis based on interactions identified using CellPhoneDB.
+
